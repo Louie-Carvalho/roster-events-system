@@ -75,6 +75,111 @@ Operations Officer - Foreign Relationship
 
 Operations Support - Foreign Relationship
 
+# Vehicles
+Number
+
+Type
+
+Registration
+
+Location
+
+Last Service
+
+# Roster
+
+Event - Foreign Relationship
+
+Members - Foreign Relationship
+
+# Status
+
+Pending
+
+Approved By Dvision
+
+Rostered
+
+Withdrawn
+
+Did Not Attend
+
+Roster Already Finalised
+
+Not Accepted
+
+Contacted - Pending Response
+
+Contacted - Member Declined
+
+# Unavailability
+
+Member - Foreign Relationship
+
+Start Date
+
+End Date
+
+# Duty
+
+Event Name
+
+Start Date
+
+End Date
+
+Event Type
+
+Quoted By
+
+Req. FR's
+
+Req. FA's
+
+Req. HCP's
+
+Division/Region - Foreign Relationship
+
+Event Organiser - Foreign Relationship
+
+Location - Foreign Relationship
+
+Refreshments/Meals provided
+
+No. Comptetitors
+
+No. Spectators
+
+Event Details
+
+# Locations/Venues
+
+Name
+
+Address
+
+Map Reference
+
+Emergency Service Entrance
+
+Onsite Contact Name
+
+Onsite Contact Number
+
+# Customers
+
+Name
+
+Organisations
+
+Address
+
+Contact Number
+
+Fax
+
+Email Address
+
 # Portfolio
 Acting Divisional Youth Manager
 
@@ -195,15 +300,3 @@ Volunteer Support Officer
 Youth Contact
 
 Youth Project Officer
-
-
-# Vehicles
-Number
-
-Type
-
-Registration
-
-Location
-
-Last Service
